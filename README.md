@@ -1,6 +1,6 @@
 # British Airways Project
 
-This project is my attempt to the Forage Virtual Experience Program offered by British Airways.
+This project is my attempt for the Forage Virtual Experience Program offered by British Airways.
 
 The project involved the following:
 
